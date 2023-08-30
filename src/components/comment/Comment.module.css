@@ -1,0 +1,32 @@
+.card {
+  max-width: 54rem;
+  max-height: 3.5rem;
+  width: 100%;
+  border: 1px;
+  padding: 1rem;
+  border-radius: 10px;
+  background-color: var(--ligth-gray);
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cardPhoto {
+  max-width: 3.12rem;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.comment {
+  font-family: Roboto, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.cardIcon {
+  max-width: 1.5rem;
+  display: flex;
+  align-items: center;
+}
