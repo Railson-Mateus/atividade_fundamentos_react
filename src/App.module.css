@@ -1,0 +1,18 @@
+.wrapper {
+  max-width: 50rem;
+  margin: 3rem auto;
+  padding: 0 1rem;
+  background-color: var(--white);
+  border-radius: 40px;
+
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.cardComments {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 30px auto;
+}
